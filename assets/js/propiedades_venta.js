@@ -26,7 +26,7 @@ const propiedades_venta = [
     habitaciones: 3,
     costo: 4500,
     smoke: false,
-    pets: true
+    pets: true,
     },
     {
         nombre: 'Penthouse de lujo con terraza panorámica',
@@ -36,7 +36,7 @@ const propiedades_venta = [
        habitaciones: 3,
        costo: 4500,
        smoke: true,
-       pets: false
+       pets: false,
        } 
     ]
     function fumar(smoke){

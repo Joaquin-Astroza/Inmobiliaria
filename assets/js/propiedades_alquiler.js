@@ -28,7 +28,7 @@ const propiedades_alquiler = [
     habitaciones: 2,
     costo: 2200,
     smoke: false,
-    pets: false
+    pets: false,
  },
  {
    nombre: 'Condominio moderno en zona residencial',
@@ -38,7 +38,7 @@ const propiedades_alquiler = [
   habitaciones: 2,
   costo: 2200,
   smoke: false,
-  pets: true
+  pets: true,
 }
 ]
 function fumar(smoke){
