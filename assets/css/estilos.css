@@ -1,0 +1,52 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    height: 100%;
+}
+
+.card img{
+    height: 250px;
+}
+.venta_alquiler{
+    margin-left: 100px;
+}
+.titulo{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+.venta{
+    
+}
+.venta .card {
+    height: 100%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+  }
+  .venta .card-img-top {
+    object-fit: cover;
+    height: 400px;
+  }
+.alquiler .card{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+
+}
+.alquiler .card-img-top {
+    object-fit: cover;
+    height: 400px;
+  }
