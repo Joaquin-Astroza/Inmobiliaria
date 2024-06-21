@@ -38,7 +38,7 @@ const propiedades_alquiler = [
   habitaciones: 2,
   costo: 2200,
   smoke: false,
-  pets: false
+  pets: true
 }
 ]
 function fumar(smoke){

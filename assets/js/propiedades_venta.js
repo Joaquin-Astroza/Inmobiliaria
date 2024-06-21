@@ -35,8 +35,8 @@ const propiedades_venta = [
        ubicacion: '567 Skyline Avenue, Skyview City, CA 56789',
        habitaciones: 3,
        costo: 4500,
-       smoke: false,
-       pets: true
+       smoke: true,
+       pets: false
        } 
     ]
     function fumar(smoke){
